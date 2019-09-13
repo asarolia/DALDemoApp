@@ -1,0 +1,7 @@
+bin\Debug\Demo.DataAccessLayer.dll
+bin\Debug\Demo.DataAccessLayer.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Demo.DataAccessLayer.dll
+obj\Debug\Demo.DataAccessLayer.pdb
+bin\Debug\Demo.Common.dll
+bin\Debug\Demo.Common.pdb

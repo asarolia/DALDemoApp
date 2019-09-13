@@ -1,0 +1,5 @@
+bin\Debug\DataService.dll
+bin\Debug\DataService.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DataService.dll
+obj\Debug\DataService.pdb

@@ -1,0 +1,5 @@
+bin\Debug\SharedDataCode.dll
+bin\Debug\SharedDataCode.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SharedDataCode.dll
+obj\Debug\SharedDataCode.pdb

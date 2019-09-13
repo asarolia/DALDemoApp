@@ -1,0 +1,9 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\Demo.Business.dll
+bin\Debug\Demo.Business.pdb
+bin\Debug\Demo.Common.dll
+bin\Debug\Demo.DataAccessLayer.dll
+bin\Debug\Demo.DataAccessLayer.pdb
+bin\Debug\Demo.Common.pdb
+obj\Debug\Demo.Business.dll
+obj\Debug\Demo.Business.pdb
